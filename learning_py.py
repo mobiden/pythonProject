@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('hercules, all beles')
+    print_hi('hercules, all beles pull request all the best')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
